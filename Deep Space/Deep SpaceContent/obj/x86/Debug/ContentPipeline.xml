@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>other\Captains Log.png</Source>
+      <Name>other\Captains Log</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Captains Log.xnb</Output>
+      <Time>2013-06-04T17:43:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\dude.png</Source>
+      <Name>Sprites\dude</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\dude.xnb</Output>
+      <Time>2013-02-01T12:16:10-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilemap\border.png</Source>
+      <Name>Tilemap\border</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\border.xnb</Output>
+      <Time>2013-02-15T15:11:58-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilemap\shipblock.png</Source>
+      <Name>Tilemap\shipblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\shipblock.xnb</Output>
+      <Time>2013-02-15T18:41:02-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Deep Space Menu.png</Source>
+      <Name>Menu\Deep Space Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Menu\Deep Space Menu.xnb</Output>
+      <Time>2013-03-01T14:51:34-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Deep Space Menu2.png</Source>
+      <Name>Menu\Deep Space Menu2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Menu\Deep Space Menu2.xnb</Output>
+      <Time>2013-03-08T13:09:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TheDude.png</Source>
+      <Name>Sprites\TheDude</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDude.xnb</Output>
+      <Time>2013-03-09T11:08:00-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Thewrench.png</Source>
+      <Name>Sprites\Thewrench</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\Thewrench.xnb</Output>
+      <Time>2013-04-16T20:34:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TheDudeleft.png</Source>
+      <Name>Sprites\TheDudeleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDudeleft.xnb</Output>
+      <Time>2013-03-09T12:09:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TheDudeleftdown.png</Source>
+      <Name>Sprites\TheDudeleftdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDudeleftdown.xnb</Output>
+      <Time>2013-03-09T11:49:00-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TheDudeleftup.png</Source>
+      <Name>Sprites\TheDudeleftup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDudeleftup.xnb</Output>
+      <Time>2013-03-09T11:49:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TheDuderightdown.png</Source>
+      <Name>Sprites\TheDuderightdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDuderightdown.xnb</Output>
+      <Time>2013-03-09T12:04:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TheDuderightup.png</Source>
+      <Name>Sprites\TheDuderightup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDuderightup.xnb</Output>
+      <Time>2013-03-09T12:05:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\levelbox.png</Source>
+      <Name>Menu\levelbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Menu\levelbox.xnb</Output>
+      <Time>2013-03-22T16:14:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilemap\electicityupdown.png</Source>
+      <Name>Tilemap\electicityupdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\electicityupdown.xnb</Output>
+      <Time>2013-04-12T12:53:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilemap\electricityleftright.png</Source>
+      <Name>Tilemap\electricityleftright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\electricityleftright.xnb</Output>
+      <Time>2013-04-12T12:53:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>other\speedGage.png</Source>
+      <Name>other\speedGage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\speedGage.xnb</Output>
+      <Time>2013-04-13T17:46:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>other\speedGageLR.png</Source>
+      <Name>other\speedGageLR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\speedGageLR.xnb</Output>
+      <Time>2013-04-13T17:47:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>other\arrow.png</Source>
+      <Name>other\arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\arrow.xnb</Output>
+      <Time>2013-04-20T19:15:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\bullet.png</Source>
+      <Name>Sprites\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\bullet.xnb</Output>
+      <Time>2013-05-03T16:37:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilemap\electicityupdownA.png</Source>
+      <Name>Tilemap\electicityupdownA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\electicityupdownA.xnb</Output>
+      <Time>2013-05-22T14:51:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilemap\electricityleftrightA.png</Source>
+      <Name>Tilemap\electricityleftrightA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\electricityleftrightA.xnb</Output>
+      <Time>2013-05-22T14:52:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TheDudeElectro.png</Source>
+      <Name>Sprites\TheDudeElectro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDudeElectro.xnb</Output>
+      <Time>2013-05-17T17:09:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>other\ElectricDying.png</Source>
+      <Name>other\ElectricDying</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\ElectricDying.xnb</Output>
+      <Time>2013-05-17T18:02:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>other\FireDying.png</Source>
+      <Name>other\FireDying</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\FireDying.xnb</Output>
+      <Time>2013-05-17T18:35:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilemap\Door.png</Source>
+      <Name>Tilemap\Door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\Door.xnb</Output>
+      <Time>2013-05-22T14:58:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Switches\DoorSwitch.png</Source>
+      <Name>Switches\DoorSwitch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Switches\DoorSwitch.xnb</Output>
+      <Time>2013-05-22T14:47:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Switches\ElectricSwitch.png</Source>
+      <Name>Switches\ElectricSwitch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Switches\ElectricSwitch.xnb</Output>
+      <Time>2013-05-22T14:45:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Switches\TurretSwitch.png</Source>
+      <Name>Switches\TurretSwitch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Switches\TurretSwitch.xnb</Output>
+      <Time>2013-05-22T14:45:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>other\GameText.png</Source>
+      <Name>other\GameText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\GameText.xnb</Output>
+      <Time>2013-06-04T16:40:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>other\DEEP SPACE.png</Source>
+      <Name>other\DEEP SPACE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\DEEP SPACE.xnb</Output>
+      <Time>2013-06-04T16:54:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>other\Entrance.png</Source>
+      <Name>other\Entrance</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Entrance.xnb</Output>
+      <Time>2013-06-12T21:03:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>other\Armory.png</Source>
+      <Name>other\Armory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Armory.xnb</Output>
+      <Time>2013-06-18T20:37:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>other\BossLevel.png</Source>
+      <Name>other\BossLevel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\BossLevel.xnb</Output>
+      <Time>2013-06-18T19:57:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>other\Throne Room.png</Source>
+      <Name>other\Throne Room</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Throne Room.xnb</Output>
+      <Time>2013-06-20T19:18:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>other\Cell Block.png</Source>
+      <Name>other\Cell Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Cell Block.xnb</Output>
+      <Time>2013-06-20T19:55:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BossMan.png</Source>
+      <Name>Sprites\BossMan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\BossMan.xnb</Output>
+      <Time>2013-06-22T16:30:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BossManD.png</Source>
+      <Name>Sprites\BossManD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\BossManD.xnb</Output>
+      <Time>2013-06-24T18:54:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SPixelGames.png</Source>
+      <Name>Sprites\SPixelGames</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\SPixelGames.xnb</Output>
+      <Time>2013-06-28T15:12:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\GameText.spritefont</Source>
+      <Name>Fonts\GameText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Fonts\GameText.xnb</Output>
+      <Time>2015-07-04T12:25:16.9948355-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MenuText.spritefont</Source>
+      <Name>Fonts\MenuText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Fonts\MenuText.xnb</Output>
+      <Time>2015-07-04T12:23:12.9975644-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\LevelText.spritefont</Source>
+      <Name>Fonts\LevelText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Fonts\LevelText.xnb</Output>
+      <Time>2015-07-04T12:24:19.2463604-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\CreditText.spritefont</Source>
+      <Name>Fonts\CreditText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Fonts\CreditText.xnb</Output>
+      <Time>2015-07-04T12:52:12.6631602-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\DS Main.mp3</Source>
+      <Name>Music\DS Main</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\DS Main.xnb</Output>
+      <Extra>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\DS Main.wma</Extra>
+      <Time>2013-05-03T10:13:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Throne Room.mp3</Source>
+      <Name>Music\Throne Room</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Throne Room.xnb</Output>
+      <Extra>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Throne Room.wma</Extra>
+      <Time>2013-05-03T10:13:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Armory.mp3</Source>
+      <Name>Music\Armory</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Armory.xnb</Output>
+      <Extra>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Armory.wma</Extra>
+      <Time>2013-05-20T14:28:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Opening.mp3</Source>
+      <Name>Music\Opening</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Opening.xnb</Output>
+      <Extra>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Opening.wma</Extra>
+      <Time>2013-05-20T14:27:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Boom.mp3</Source>
+      <Name>Music\Boom</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Boom.xnb</Output>
+      <Extra>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Boom.wma</Extra>
+      <Time>2013-06-04T17:05:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Cell Block.mp3</Source>
+      <Name>Music\Cell Block</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Cell Block.xnb</Output>
+      <Extra>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Cell Block.wma</Extra>
+      <Time>2013-06-04T17:05:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Deep Space - Captains Log.mp3</Source>
+      <Name>Music\Deep Space - Captains Log</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Deep Space - Captains Log.xnb</Output>
+      <Extra>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Deep Space - Captains Log.wma</Extra>
+      <Time>2013-06-04T17:43:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Deep Space - 1st World.mp3</Source>
+      <Name>Music\Deep Space - 1st World</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Deep Space - 1st World.xnb</Output>
+      <Extra>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Deep Space - 1st World.wma</Extra>
+      <Time>2013-06-07T20:27:02-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep SpaceContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep SpaceContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-05-16T17:29:22.5416897-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

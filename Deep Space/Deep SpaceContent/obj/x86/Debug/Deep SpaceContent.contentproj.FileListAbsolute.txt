@@ -1,0 +1,4 @@
+F:\Deep Space\Deep Space\Deep SpaceContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Deep Space\Deep Space\Deep SpaceContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep SpaceContent\obj\x86\Debug\Deep SpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep SpaceContent\obj\x86\Debug\Deep SpaceContent.contentprojResolveAssemblyReference.cache

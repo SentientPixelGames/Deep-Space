@@ -1,0 +1,365 @@
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Deep Space.exe
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Deep Space.pdb
+E:\Deep Space\Deep Space\Deep Space\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Deep Space.exe
+E:\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Deep Space.pdb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\level1.txt
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\level0.txt
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\dude.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\wrench.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\border.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\shipblock.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Deep Space Menu.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\dudeleft.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\dudeleftdown.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\dudeleftup.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\duderight.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\duderightdown.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\duderightup.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Deep Space Menu2.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\TheDude.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Thewrench.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\TheDudeleft.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\TheDudeleftdown.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\TheDudeleftup.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\TheDuderightdown.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\TheDuderightup.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\levelbox.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\dudelevel.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\GameText.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\MenuText.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\LevelText.xnb
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Deep Space.exe
+F:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Deep Space.pdb
+F:\Deep Space\Deep Space\Deep Space\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Deep Space.exe
+F:\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Deep Space.pdb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level10.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level0.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level1.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level2.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level3.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level4.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level5.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level6.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level7.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level8.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level9.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\dude.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\border.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\shipblock.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Menu\Deep Space Menu.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Menu\Deep Space Menu2.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDude.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\Thewrench.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDudeleft.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDudeleftdown.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDudeleftup.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDuderightdown.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDuderightup.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Menu\levelbox.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\electicityupdown.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\electricityleftright.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Fonts\GameText.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Fonts\MenuText.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Fonts\LevelText.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\speedGage.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\speedGageLR.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\arrow.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\DS Main.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Throne Room.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\DS Main.wma
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Throne Room.wma
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level11.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\bullet.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level12.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level13.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level14.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level15.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level16.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level17.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\electicityupdownA.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\electricityleftrightA.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDudeElectro.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\ElectricDying.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\FireDying.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level18.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Armory.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Opening.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Armory.wma
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Opening.wma
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level19.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level20.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\Door.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Switches\DoorSwitch.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Switches\ElectricSwitch.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Switches\TurretSwitch.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level21.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level22.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level23.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level24.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level25.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level26.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level27.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level28.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level29.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level30.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level31.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level32.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\GameText.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\DEEP SPACE.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Boom.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Cell Block.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Boom.wma
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Cell Block.wma
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Deep Space - Captains Log.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Deep Space - Captains Log.wma
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Captains Log.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Deep Space - 1st World.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Deep Space - 1st World.wma
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level33.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level34.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level35.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level36.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level37.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level38.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level39.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Entrance.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Armory.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\BossLevel.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Throne Room.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Cell Block.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level40.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\progress.txt
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\BossMan.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\BossManD.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Fonts\CreditText.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\SPixelGames.xnb
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Deep Space.exe.manifest
+E:\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Deep Space.application
+E:\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Deep Space.exe.manifest
+E:\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Deep Space.application
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Deep Space.exe
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Deep Space.pdb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level40.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level35.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level36.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level37.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level38.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level39.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level34.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level33.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level32.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level31.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level30.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level29.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level28.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level27.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level26.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level25.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level24.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level23.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level22.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level21.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level20.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level19.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level18.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level17.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level16.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level15.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level14.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level13.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level12.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level11.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level10.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level0.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level1.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level2.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level3.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level4.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level5.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level6.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level7.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level8.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level9.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\progress.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Captains Log.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\dude.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\border.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\shipblock.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Menu\Deep Space Menu.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Menu\Deep Space Menu2.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDude.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\Thewrench.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDudeleft.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDudeleftdown.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDudeleftup.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDuderightdown.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDuderightup.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Menu\levelbox.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\electicityupdown.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\electricityleftright.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\speedGage.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\speedGageLR.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\arrow.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\bullet.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\electicityupdownA.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\electricityleftrightA.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDudeElectro.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\ElectricDying.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\FireDying.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\Door.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Switches\DoorSwitch.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Switches\ElectricSwitch.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Switches\TurretSwitch.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\GameText.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\DEEP SPACE.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Entrance.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Armory.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\BossLevel.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Throne Room.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Cell Block.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\BossMan.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\BossManD.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\SPixelGames.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Fonts\GameText.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Fonts\MenuText.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Fonts\LevelText.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Fonts\CreditText.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\DS Main.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Throne Room.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Armory.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Opening.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Boom.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Cell Block.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Deep Space - Captains Log.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Deep Space - 1st World.xnb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\DS Main.wma
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Throne Room.wma
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Armory.wma
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Opening.wma
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Boom.wma
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Cell Block.wma
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Deep Space - Captains Log.wma
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Deep Space - 1st World.wma
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Deep Space.exe.manifest
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Deep Space.application
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Deep Space.exe
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Deep Space.pdb
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Deep Space.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Deep Space.exe.manifest
+C:\Users\Paul\Documents\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Deep Space.application
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\progress.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level40.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level35.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level36.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level37.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level38.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level39.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level34.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level33.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level32.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level31.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level30.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level29.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level28.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level27.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level26.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level25.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level24.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level23.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level22.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level21.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level20.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level19.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level18.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level17.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level16.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level15.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level14.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level13.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level12.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level11.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level10.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level0.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level1.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level2.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level3.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level4.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level5.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level6.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level7.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level8.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\levels\level9.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Captains Log.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\dude.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\border.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\shipblock.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Menu\Deep Space Menu.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Menu\Deep Space Menu2.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDude.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\Thewrench.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDudeleft.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDudeleftdown.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDudeleftup.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDuderightdown.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDuderightup.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Menu\levelbox.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\electicityupdown.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\electricityleftright.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\speedGage.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\speedGageLR.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\arrow.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\bullet.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\electicityupdownA.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\electricityleftrightA.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\TheDudeElectro.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\ElectricDying.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\FireDying.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Tilemap\Door.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Switches\DoorSwitch.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Switches\ElectricSwitch.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Switches\TurretSwitch.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\GameText.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\DEEP SPACE.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Entrance.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Armory.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\BossLevel.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Throne Room.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\other\Cell Block.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\BossMan.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\BossManD.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Sprites\SPixelGames.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Fonts\GameText.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Fonts\MenuText.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Fonts\LevelText.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Fonts\CreditText.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\DS Main.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Throne Room.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Armory.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Opening.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Boom.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Cell Block.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Deep Space - Captains Log.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Deep Space - 1st World.xnb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\DS Main.wma
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Throne Room.wma
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Armory.wma
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Opening.wma
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Boom.wma
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Cell Block.wma
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Deep Space - Captains Log.wma
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Content\Music\Deep Space - 1st World.wma
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Deep Space.exe.manifest
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Deep Space.application
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Deep Space.exe
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\bin\x86\Debug\Deep Space.pdb
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Deep Space.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Deep Space.exe.manifest
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Deep Space.application
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Deep Space.exe
+C:\Users\Paul\Documents\GitHub\Deep Space\Deep Space\Deep Space\obj\x86\Debug\Deep Space.pdb

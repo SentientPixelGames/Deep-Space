@@ -1,0 +1,59 @@
+Content\other\Captains Log.xnb
+Content\Sprites\dude.xnb
+Content\Tilemap\border.xnb
+Content\Tilemap\shipblock.xnb
+Content\Menu\Deep Space Menu.xnb
+Content\Menu\Deep Space Menu2.xnb
+Content\Sprites\TheDude.xnb
+Content\Sprites\Thewrench.xnb
+Content\Sprites\TheDudeleft.xnb
+Content\Sprites\TheDudeleftdown.xnb
+Content\Sprites\TheDudeleftup.xnb
+Content\Sprites\TheDuderightdown.xnb
+Content\Sprites\TheDuderightup.xnb
+Content\Menu\levelbox.xnb
+Content\Tilemap\electicityupdown.xnb
+Content\Tilemap\electricityleftright.xnb
+Content\other\speedGage.xnb
+Content\other\speedGageLR.xnb
+Content\other\arrow.xnb
+Content\Sprites\bullet.xnb
+Content\Tilemap\electicityupdownA.xnb
+Content\Tilemap\electricityleftrightA.xnb
+Content\Sprites\TheDudeElectro.xnb
+Content\other\ElectricDying.xnb
+Content\other\FireDying.xnb
+Content\Tilemap\Door.xnb
+Content\Switches\DoorSwitch.xnb
+Content\Switches\ElectricSwitch.xnb
+Content\Switches\TurretSwitch.xnb
+Content\other\GameText.xnb
+Content\other\DEEP SPACE.xnb
+Content\other\Entrance.xnb
+Content\other\Armory.xnb
+Content\other\BossLevel.xnb
+Content\other\Throne Room.xnb
+Content\other\Cell Block.xnb
+Content\Sprites\BossMan.xnb
+Content\Sprites\BossManD.xnb
+Content\Sprites\SPixelGames.xnb
+Content\Fonts\GameText.xnb
+Content\Fonts\MenuText.xnb
+Content\Fonts\LevelText.xnb
+Content\Fonts\CreditText.xnb
+Content\Music\DS Main.xnb
+Content\Music\DS Main.wma
+Content\Music\Throne Room.xnb
+Content\Music\Throne Room.wma
+Content\Music\Armory.xnb
+Content\Music\Armory.wma
+Content\Music\Opening.xnb
+Content\Music\Opening.wma
+Content\Music\Boom.xnb
+Content\Music\Boom.wma
+Content\Music\Cell Block.xnb
+Content\Music\Cell Block.wma
+Content\Music\Deep Space - Captains Log.xnb
+Content\Music\Deep Space - Captains Log.wma
+Content\Music\Deep Space - 1st World.xnb
+Content\Music\Deep Space - 1st World.wma

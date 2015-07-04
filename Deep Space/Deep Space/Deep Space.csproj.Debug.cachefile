@@ -1,0 +1,101 @@
+Content\other\Captains Log.xnb
+Content\Sprites\dude.xnb
+Content\Tilemap\border.xnb
+Content\Tilemap\shipblock.xnb
+Content\Menu\Deep Space Menu.xnb
+Content\Menu\Deep Space Menu2.xnb
+Content\Sprites\TheDude.xnb
+Content\Sprites\Thewrench.xnb
+Content\Sprites\TheDudeleft.xnb
+Content\Sprites\TheDudeleftdown.xnb
+Content\Sprites\TheDudeleftup.xnb
+Content\Sprites\TheDuderightdown.xnb
+Content\Sprites\TheDuderightup.xnb
+Content\Menu\levelbox.xnb
+Content\Tilemap\electicityupdown.xnb
+Content\Tilemap\electricityleftright.xnb
+Content\other\speedGage.xnb
+Content\other\speedGageLR.xnb
+Content\other\arrow.xnb
+Content\Sprites\bullet.xnb
+Content\Tilemap\electicityupdownA.xnb
+Content\Tilemap\electricityleftrightA.xnb
+Content\Sprites\TheDudeElectro.xnb
+Content\other\ElectricDying.xnb
+Content\other\FireDying.xnb
+Content\Tilemap\Door.xnb
+Content\Switches\DoorSwitch.xnb
+Content\Switches\ElectricSwitch.xnb
+Content\Switches\TurretSwitch.xnb
+Content\other\GameText.xnb
+Content\other\DEEP SPACE.xnb
+Content\other\Entrance.xnb
+Content\other\Armory.xnb
+Content\other\BossLevel.xnb
+Content\other\Throne Room.xnb
+Content\other\Cell Block.xnb
+Content\Sprites\BossMan.xnb
+Content\Sprites\BossManD.xnb
+Content\Sprites\SPixelGames.xnb
+Content\Fonts\GameText.xnb
+Content\Fonts\MenuText.xnb
+Content\Fonts\LevelText.xnb
+Content\Fonts\CreditText.xnb
+Content\Music\DS Main.xnb
+Content\Music\Throne Room.xnb
+Content\Music\Armory.xnb
+Content\Music\Opening.xnb
+Content\Music\Boom.xnb
+Content\Music\Cell Block.xnb
+Content\Music\Deep Space - Captains Log.xnb
+Content\Music\Deep Space - 1st World.xnb
+Content\Music\DS Main.wma
+Content\Music\Throne Room.wma
+Content\Music\Armory.wma
+Content\Music\Opening.wma
+Content\Music\Boom.wma
+Content\Music\Cell Block.wma
+Content\Music\Deep Space - Captains Log.wma
+Content\Music\Deep Space - 1st World.wma
+progress.txt
+levels\level40.txt
+levels\level35.txt
+levels\level36.txt
+levels\level37.txt
+levels\level38.txt
+levels\level39.txt
+levels\level34.txt
+levels\level33.txt
+levels\level32.txt
+levels\level31.txt
+levels\level30.txt
+levels\level29.txt
+levels\level28.txt
+levels\level27.txt
+levels\level26.txt
+levels\level25.txt
+levels\level24.txt
+levels\level23.txt
+levels\level22.txt
+levels\level21.txt
+levels\level20.txt
+levels\level19.txt
+levels\level18.txt
+levels\level17.txt
+levels\level16.txt
+levels\level15.txt
+levels\level14.txt
+levels\level13.txt
+levels\level12.txt
+levels\level11.txt
+levels\level10.txt
+levels\level0.txt
+levels\level1.txt
+levels\level2.txt
+levels\level3.txt
+levels\level4.txt
+levels\level5.txt
+levels\level6.txt
+levels\level7.txt
+levels\level8.txt
+levels\level9.txt
